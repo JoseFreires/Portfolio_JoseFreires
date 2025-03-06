@@ -26,7 +26,7 @@ utilizei o layout do canal Hora de Codar, pois gostei do estilo que foi criado e
 
 ## Autor
 
-
 <p>Jose Freires</p>
+- [link do video](https://youtu.be/5h4vMtBlQQU?si=pellUNez4eKRD7NV)
 
 
