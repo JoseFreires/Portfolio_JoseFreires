@@ -9,7 +9,6 @@ utilizei o layout do canal Hora de Codar, pois gostei do estilo que foi criado e
 ## Conteúdo
 - [Portifólio de Jose Freires](#portifólio-de-jose-freires)
   - [Conteúdo](#conteúdo)
-  - [Imagens do Projeto](#imagens-do-projeto)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
   - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
   - [Autor](#autor)
@@ -27,6 +26,7 @@ utilizei o layout do canal Hora de Codar, pois gostei do estilo que foi criado e
 ## Autor
 
 <p>Jose Freires</p>
-- [link do video](https://youtu.be/5h4vMtBlQQU?si=pellUNez4eKRD7NV)
+
+- [Link do video](https://youtu.be/5h4vMtBlQQU?si=pellUNez4eKRD7NV)
 
 
