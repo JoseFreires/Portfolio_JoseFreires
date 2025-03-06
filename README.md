@@ -14,11 +14,6 @@ utilizei o layout do canal Hora de Codar, pois gostei do estilo que foi criado e
   - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
   - [Autor](#autor)
 
-
-## Imagens do Projeto
-
-
-
 ## Tecnologias utilizadas
 
 - [ReactJS](https://pt-br.reactjs.org/)
