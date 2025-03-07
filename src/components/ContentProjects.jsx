@@ -1,7 +1,9 @@
+import { FaArrowLeft } from "react-icons/fa";
+
+import ProjectsBackEnd from "./subcomponents/ProjectsBackEnd";
 import ProjectsFrontEnd from "./subcomponents/ProjectsFrontEnd";
 
 import '../styles/components/ContentProjects.sass'
-import ProjectsBackEnd from "./subcomponents/ProjectsBackEnd";
 
 
 const ContentProjects = () => {
@@ -9,6 +11,9 @@ const ContentProjects = () => {
         <section id="containerProjects">
             <ProjectsFrontEnd />
             <ProjectsBackEnd />
+            <a href="/" className="btn">
+                <FaArrowLeft /> 
+            </a>
         </section>
     )
 }

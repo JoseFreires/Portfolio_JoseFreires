@@ -10,14 +10,13 @@ export default function CardProject(props){
                 <h2>{props.name}</h2>
                 <p>{props.content}</p>
                 <h3>STATUS: {props.status}</h3>
-                <div id='languages'>
-                    {props.icons}
-                </div>
             </div>
-
-            <a href={props.link} target="_blank">
-                <FaGithub/ >
-             </a>
+            <div id='containerIcons'>
+                <a href={props.link} target="_blank">
+                    <FaGithub/ >
+                </a>
+                {props.language}
+             </div>
         </div>
     )
 }

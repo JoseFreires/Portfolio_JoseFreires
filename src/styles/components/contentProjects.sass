@@ -27,6 +27,7 @@
         margin-bottom: 1.3rem
         @include mixins.center
         justify-content: start
+        gap: 1rem
 
         &::after
             @include mixins.gradient-border
@@ -40,3 +41,13 @@
         color: variables.$text-color
         margin-bottom: 1rem
         line-height: 1.4rem
+
+    svg
+        color: variables.$text-color
+
+    .btn
+        @include mixins.btn
+        text-align: center
+    
+        svg
+            font-size: 3rem
