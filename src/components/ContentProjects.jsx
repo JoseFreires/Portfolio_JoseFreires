@@ -3,7 +3,7 @@ import { FaArrowLeft } from "react-icons/fa";
 import ProjectsBackEnd from "./subcomponents/ProjectsBackEnd";
 import ProjectsFrontEnd from "./subcomponents/ProjectsFrontEnd";
 
-import '../styles/components/ContentProjects.sass'
+import '../styles/components/contentProjects.sass'
 
 
 const ContentProjects = () => {
