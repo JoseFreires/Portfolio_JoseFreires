@@ -1,4 +1,4 @@
-import Avatar from '../img/eukk.jpg'
+import Avatar from '../img/JoseFreires.png'
 import SocialNetwork from './subcomponents/SocialNetwork'
 import InformationContainer from './subcomponents/InformationContainer'
 import Graduations from './subcomponents/Graduations'
